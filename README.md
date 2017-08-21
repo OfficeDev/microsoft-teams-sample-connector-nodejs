@@ -15,3 +15,4 @@ This contains the source for the GitHub connector for Microsoft Teams.
 ### How to Run
  - install all the dependencies through npm install.
  - run node server.js.
+ - Zip manifest.json file and sideload to any team. Alternative you can set your own connector at Microsoft connector portal (https://outlook.office.com/connectors/publish) and follow instructions here to get a new connector for microsoft teams ( https://msdn.microsoft.com/en-us/microsoft-teams/connectors).
