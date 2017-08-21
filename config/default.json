@@ -3,8 +3,8 @@
     "github": {
         "clientId": "a27e147b786aaa7c6403",
         "clientSecret": "b44f73535fdd4b92f45774c6c6ea11fa26f852bf",
-        "callbackUrl": "https://93b3159b.ngrok.io/auth/github/callback",
-        "serviceUrl": "https://93b3159b.ngrok.io"
+        "callbackUrl": "https://githubconnector.azurewebsites.net/auth/github/callback",
+        "serviceUrl": "https://githubconnector.azurewebsites.net"
     },
     "session": {
         "secret": "random"
