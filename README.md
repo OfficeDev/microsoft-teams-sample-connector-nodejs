@@ -1,5 +1,5 @@
 # GitHub Connector 
-This is an example to show, how a third party connector can be created for Microsoft Teams (using Github apis). It is not the source code for the built-in connector.
+This is an example to show how to write a connector for Microsoft Teams using GitHub's APIs. It is not the source code for the GitHub connector in Teams/Outlook/Yammer.
  
 #### Prerequisites
 1. Register a new OAuth application at GitHub. Note the GitHub client id and secret.
