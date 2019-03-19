@@ -15,8 +15,8 @@
     "short": "GitHubConnector"
   },
   "icons": {
-    "outline": "https://outlook.office.com/connectors/Content/Images/IncomingWebhook.jpg",
-    "color": "https://outlook.office.com/connectors/Content/Images/IncomingWebhook.jpg"
+    "outline": "IncomingWebhook.jpg",
+    "color": "IncomingWebhook.jpg"
   },
   "connectors": [
     {
