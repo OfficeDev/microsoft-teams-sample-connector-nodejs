@@ -4,14 +4,12 @@ products:
 - office-teams
 - office-365
 languages:
-- nodejs
+- javascript
 extensions:
   contentType: samples
   technologies:
   - Connectors
-  createdDate: 12/04/2017 2:40:56 PM
-  scenarios:
-  - Connect
+  createdDate: 8/21/2017 11:52:11 AM
 ---
 # GitHub Connector 
 This is an example to show how to write a connector for Microsoft Teams using GitHub's APIs. It is not the source code for the GitHub connector in Teams/Outlook/Yammer.
